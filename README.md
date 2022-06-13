@@ -5,7 +5,7 @@
 # main
 
 <img src="https://user-images.githubusercontent.com/96267331/173283833-639886f7-4327-4a3a-8226-c89d0de9280d.PNG"></img><br>
-메인에서는 관리자에게 난수 3개를 받아 게임을 시작하거나 랜덤으로 난수 3개를 받아 게임을 시작한다<br>
+메인에서는 관리자에게 난수 3개를 받아 메소드2로 게임을 시작하거나 랜덤으로 난수 3개를 받아 메소드1으로 게임을 시작한다<br>
 # Method1
 
 <img src="https://user-images.githubusercontent.com/96267331/173283834-074f0d31-6f34-4254-ad81-a34f39ce887d.PNG"></img><br>
